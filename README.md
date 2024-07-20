@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, feel free to contact me at [shawnpark2397@gmail.com](mailto:shawnpark2397@gmail.com).
