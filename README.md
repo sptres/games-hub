@@ -1,76 +1,88 @@
 # Games Hub
 
-Welcome to Games Hub! This project is a web application that showcases and links to various online games. The application is built using React and styled with Tailwind CSS. It features a hero section, animated elements with AOS (Animate On Scroll), and gaming cards with links to the games.
+Welcome to **Games Hub**, a collection of interactive games including O-Mok, Flappy Bird clone, and Wordle. This project aims to provide a fun and engaging experience for users while showcasing the integration of multiple games into a single web application.
 
 ## Table of Contents
 
 - [Games Hub](#games-hub)
   - [Table of Contents](#table-of-contents)
-  - [Demo](#demo)
+  - [About the Project](#about-the-project)
   - [Features](#features)
-  - [Technologies Used](#technologies-used)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
+  - [Games Included](#games-included)
+    - [O-Mok](#o-mok)
+    - [Flappy Bird Clone](#flappy-bird-clone)
+    - [Wordle](#wordle)
+  - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
 
-## Demo
+## About the Project
 
-You can view the live demo of the project [here](#).
+Games Hub is a web application developed using React that brings together three popular games: O-Mok, Flappy Bird clone, and Wordle. Each game is accessible from a central homepage, allowing users to easily navigate and play the game of their choice.
 
 ## Features
 
-- **Hero Section**: An attractive hero section with a background image and a call-to-action button.
-- **Responsive Design**: The application is fully responsive and works on various screen sizes.
-- **Gaming Cards**: Display of game cards with images, descriptions, and links to the games.
-- **Animations**: Smooth scroll animations using AOS (Animate On Scroll).
-
-## Technologies Used
-
-- **React**: A JavaScript library for building user interfaces.
-- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-- **AOS (Animate On Scroll)**: A library to animate elements on your page as you scroll.
-- **React Icons**: Popular icons for React projects.
+- **Centralized Hub:** A homepage that serves as the main entry point to access all the games.
+- **Interactive Games:** Enjoy playing O-Mok, Flappy Bird clone, and Wordle.
+- **Future Expansion:** Built using React, allowing for easy addition of new games and features.
 
 ## Installation
 
-To run this project locally, follow these steps:
+To get a local copy up and running, follow these simple steps:
 
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/games-hub.git
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/sptres/games-hub.git
+   ```
+2. **Navigate to the project directory**
+   ```sh
    cd games-hub
    ```
-
-2. **Install dependencies**:
-
-   ```bash
+3. **Install dependencies**
+   ```sh
    npm install
    ```
-
-3. **Run the development server**:
-
-   ```bash
+4. **Start the development server**
+   ```sh
    npm start
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 ## Usage
 
-Once the project is set up and running, you can navigate to the home page to see the hero section and the gaming cards. Click on any game card to open the respective game in a new tab.
+Once the development server is running, open your browser and navigate to `http://localhost:3000` to access the Games Hub homepage. From there, you can choose which game you would like to play.
 
-## Credits
+## Games Included
 
-- **Images**: The images used in this project are sourced from various online resources.
-- **Icons**: Icons used are from [React Icons](https://react-icons.github.io/react-icons/).
+### O-Mok
+
+O-Mok is a traditional Korean game that is similar to Go and Gomoku. The objective is to align five of your pieces in a row horizontally, vertically, or diagonally.
+
+### Flappy Bird Clone
+
+This is a clone of the popular Flappy Bird game. Navigate your bird through the pipes by clicking or tapping to keep it in the air.
+
+### Wordle
+
+A word guessing game where you have six attempts to guess a five-letter word. After each guess, the tiles will change color to show how close your guess was to the word.
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-If you have any questions, feel free to contact me at [shawnpark2397@gmail.com](mailto:shawnpark2397@gmail.com).
+For issues or questions, email at shawnpark2397@gmail.com
+
+Project Link: [https://github.com/sptres/games-hub](https://github.com/sptres/games-hub)
